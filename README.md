@@ -13,7 +13,7 @@ The mechanical structure, motors , batteries, solar system,..
 The GPS with RTK , navigation software, motor drivers,..
 
 
-## 3. vision system
+## 3. Vision system
 
 The camera, YoloV8 software algorythm, dataset ,..
 
